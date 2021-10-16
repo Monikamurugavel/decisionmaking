@@ -18,7 +18,7 @@ int  main()
 		printf("Grade C");
 		
 	}
-	else if(mark>40)
+	else if(mark>=40)
 	{
 		printf("Grade D");
 	}
